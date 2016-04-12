@@ -29,3 +29,5 @@ run as application
 
 todo:
 refactor all cyberbliss into nl.project_x
+
+App opens a container from which the api  will be deployed on localhost:9080
